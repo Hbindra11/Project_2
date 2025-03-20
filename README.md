@@ -85,3 +85,28 @@ node caesarCipher.js "hello world" 3
 #### Output:
 khoor zruog
 
+## How to Clone and Run the Project
+
+### Step 1: Clone the Repository
+To get a copy of this project on your local machine, run the following command in your terminal:
+
+```sh
+git clone https://github.com/your-username/Project-2-node-wordGames.git
+```
+
+### Step 2: Navigate to the Project Directory
+Change into the project directory:
+
+```sh
+cd Project-2-node-wordGames
+```
+
+### Step 3: Install Dependencies
+Ensure you have Node.js installed on your system. Then, install the required dependencies by running:
+
+```sh
+npm install
+```
+
+### Step 4: Run the Games
+Follow the instructions for each game listed above to run them from your console.
